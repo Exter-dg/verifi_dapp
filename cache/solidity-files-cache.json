@@ -1,0 +1,112 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/parth/Github/Eth-bct/contracts/Greeter.sol": {
+      "lastModificationDate": 1637473029926,
+      "contentHash": "e72084ced9897631054301ceb5ac8da2",
+      "sourceName": "contracts/Greeter.sol",
+      "solcConfig": {
+        "version": "0.5.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.5.0"
+      ],
+      "artifacts": [
+        "Greeter"
+      ]
+    },
+    "/home/parth/Github/Eth-bct/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1637472429223,
+      "contentHash": "cc4777addd464ea56fa35b1c45df0591",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.5.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "/home/parth/Github/Eth-bct/contracts/verifi.sol": {
+      "lastModificationDate": 1637475168907,
+      "contentHash": "6c199901c3e8936f6c6dccc990f8967e",
+      "sourceName": "contracts/verifi.sol",
+      "solcConfig": {
+        "version": "0.5.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.5.0"
+      ],
+      "artifacts": [
+        "Verifi"
+      ]
+    }
+  }
+}
